@@ -25,7 +25,7 @@ These themes are designed with accessibility in mind, following the Web Content 
 
 ## Feedback
 
-If you have suggestions or issues, please submit them to the [GitHub repository](https://github.com/yourusername/wcag-themes).
+If you have suggestions or issues, please submit them to the [GitHub repository](https://github.com/iCodeForBananas/wcag-themes).
 
 ## License
 
