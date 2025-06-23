@@ -1,0 +1,44 @@
+{
+  "name": "wcag-themes",
+  "displayName": "WCAG Themes",
+  "description": "WCAG compliant VS Code themes with 8:1 minimum contrast ratio, ideal for users with astigmatism and visual impairments.",
+  "version": "1.0.0",
+  "publisher": "iCodeForBananas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iCodeForBananas/wcag-themes"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "wcag",
+    "accessibility",
+    "dark theme",
+    "light theme"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+  },
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "WCAG Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-dark-theme.json"
+      },
+      {
+        "label": "WCAG Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/wcag-light-theme.json"
+      }
+    ]
+  }
+}
