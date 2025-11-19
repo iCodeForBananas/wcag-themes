@@ -27,6 +27,9 @@
     "theme": "dark"
   },
   "license": "MIT",
+  "scripts": {
+    "build": "vsce package"
+  },
   "contributes": {
     "themes": [
       {
@@ -38,6 +41,11 @@
         "label": "WCAG Light Theme",
         "uiTheme": "vs",
         "path": "./themes/wcag-light-theme.json"
+      },
+      {
+        "label": "WCAG Gray Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-gray-theme.json"
       }
     ]
   }
