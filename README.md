@@ -18,10 +18,27 @@ All themes exceed WCAG AAA guidelines with a minimum 8:1 contrast ratio for text
 - **WCAG Hacker Green Theme** - Terminal-inspired green on black
 - **WCAG Midnight Contrast Theme** - Deep midnight blue with vibrant accents
 - **WCAG Crimson Contrast Theme** - Bold crimson and deep red tones
+- **WCAG Purple Theme** - Deep purple background with lavender accents
+- **WCAG Amber Theme** - Warm amber tones reminiscent of old terminals
+- **WCAG Forest Theme** - Deep forest green with bright emerald highlights
+- **WCAG Sepia Theme** - Warm brown tones, easy on the eyes
+- **WCAG Ocean Theme** - Deep navy with aqua/teal accents
+- **WCAG Burgundy Theme** - Sophisticated burgundy and wine tones
+- **WCAG Charcoal Theme** - Almost black with silver/white highlights
+- **WCAG Indigo Theme** - Deep indigo with bright blue/purple accents
+- **WCAG Solarized Dark Theme** - WCAG-compliant version of the popular Solarized palette
+- **WCAG Nord Theme** - WCAG-compliant cool blue-gray Nord-inspired palette
+- **WCAG Dracula Theme** - WCAG-compliant version of the popular Dracula theme
 
 ### Light Themes
 
 - **WCAG Light Theme** - Clean light theme with high contrast
+- **WCAG Cream Theme** - Soft cream background, warmer than pure white
+- **WCAG Sky Theme** - Soft blue background like a clear sky
+- **WCAG Light Gray Theme** - Subtle gray background instead of white
+- **WCAG Warm Light Theme** - Slightly yellow-tinted for warmer feel
+- **WCAG Lavender Light Theme** - Very pale purple background
+- **WCAG Mint Theme** - Soft, pale green background
 
 ## Key Features
 

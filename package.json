@@ -2,7 +2,7 @@
   "name": "wcag-themes",
   "displayName": "WCAG Themes",
   "description": "WCAG compliant VS Code themes with 8:1 minimum contrast ratio, ideal for users with astigmatism and visual impairments.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "michaeljcalkins",
   "repository": {
     "type": "git",
@@ -78,6 +78,91 @@
         "label": "WCAG Crimson Contrast Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/wcag-crimson-contrast-theme.json"
+      },
+      {
+        "label": "WCAG Purple Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-purple-theme.json"
+      },
+      {
+        "label": "WCAG Amber Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-amber-theme.json"
+      },
+      {
+        "label": "WCAG Forest Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-forest-theme.json"
+      },
+      {
+        "label": "WCAG Sepia Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-sepia-theme.json"
+      },
+      {
+        "label": "WCAG Ocean Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-ocean-theme.json"
+      },
+      {
+        "label": "WCAG Burgundy Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-burgundy-theme.json"
+      },
+      {
+        "label": "WCAG Charcoal Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-charcoal-theme.json"
+      },
+      {
+        "label": "WCAG Indigo Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-indigo-theme.json"
+      },
+      {
+        "label": "WCAG Solarized Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-solarized-dark-theme.json"
+      },
+      {
+        "label": "WCAG Nord Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-nord-theme.json"
+      },
+      {
+        "label": "WCAG Dracula Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-dracula-theme.json"
+      },
+      {
+        "label": "WCAG Cream Theme",
+        "uiTheme": "vs",
+        "path": "./themes/wcag-cream-theme.json"
+      },
+      {
+        "label": "WCAG Sky Theme",
+        "uiTheme": "vs",
+        "path": "./themes/wcag-sky-theme.json"
+      },
+      {
+        "label": "WCAG Light Gray Theme",
+        "uiTheme": "vs",
+        "path": "./themes/wcag-light-gray-theme.json"
+      },
+      {
+        "label": "WCAG Warm Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/wcag-warm-light-theme.json"
+      },
+      {
+        "label": "WCAG Lavender Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/wcag-lavender-light-theme.json"
+      },
+      {
+        "label": "WCAG Mint Theme",
+        "uiTheme": "vs",
+        "path": "./themes/wcag-mint-theme.json"
       }
     ]
   }
