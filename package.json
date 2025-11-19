@@ -62,6 +62,11 @@
         "label": "WCAG Black Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/wcag-black-theme.json"
+      },
+      {
+        "label": "WCAG Hacker Green Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-hacker-green-theme.json"
       }
     ]
   }
