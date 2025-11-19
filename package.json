@@ -57,6 +57,11 @@
         "label": "WCAG Slate Grey Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/wcag-slate-theme.json"
+      },
+      {
+        "label": "WCAG Black Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-black-theme.json"
       }
     ]
   }
