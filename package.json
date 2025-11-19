@@ -28,7 +28,8 @@
   },
   "license": "MIT",
   "scripts": {
-    "build": "vsce package"
+    "build": "vsce package",
+    "dev": "vsce package && code --install-extension wcag-themes-1.0.0.vsix"
   },
   "contributes": {
     "themes": [
@@ -46,6 +47,11 @@
         "label": "WCAG Gray Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/wcag-gray-theme.json"
+      },
+      {
+        "label": "WCAG Cool Blue Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-blue-theme.json"
       }
     ]
   }
