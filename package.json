@@ -52,6 +52,11 @@
         "label": "WCAG Cool Blue Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/wcag-blue-theme.json"
+      },
+      {
+        "label": "WCAG Slate Grey Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-slate-theme.json"
       }
     ]
   }
