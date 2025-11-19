@@ -1,63 +1,50 @@
 # WCAG Themes for VS Code
 
-A collection of WCAG compliant themes for Visual Studio Code that prioritize accessibility.
+Accessible, high-contrast color themes for Visual Studio Code that meet WCAG AAA standards. Perfect for developers who need excellent readability, reduced eye strain, and accessibility compliance.
 
-## Features
+## Why WCAG Themes?
 
-- **WCAG Dark Theme**: A dark theme that meets WCAG accessibility guidelines
-- **WCAG Light Theme**: A light theme that meets WCAG accessibility guidelines
+All themes exceed WCAG AAA guidelines with a minimum 8:1 contrast ratio for text and UI elements, ensuring maximum readability for all users including those with visual impairments. Choose from multiple color palettes to match your preference while maintaining accessibility.
 
-## Accessibility
+## Available Themes
 
-These themes are designed with accessibility in mind, following the Web Content Accessibility Guidelines (WCAG) to ensure:
+### Dark Themes
 
-- High color contrast with a minimum ratio of 8:1 for all text and UI elements (exceeding WCAG AAA requirements)
-- Clear visual distinctions between different code elements
-- Reduced eye strain during extended coding sessions
-- Improved readability for users with visual impairments
+- **WCAG Dark Theme** - Classic dark theme with high contrast
+- **WCAG Black Theme** - Pure black background for OLED displays and maximum contrast
+- **WCAG Blue Theme** - Dark blue color palette for a cooler aesthetic
+- **WCAG Gray Theme** - Neutral gray tones for balanced contrast
+- **WCAG Slate Theme** - Sophisticated slate gray background
+- **WCAG Hacker Green Theme** - Terminal-inspired green on black
+- **WCAG Midnight Contrast Theme** - Deep midnight blue with vibrant accents
+- **WCAG Crimson Contrast Theme** - Bold crimson and deep red tones
+
+### Light Themes
+
+- **WCAG Light Theme** - Clean light theme with high contrast
+
+## Key Features
+
+- **WCAG AAA Compliant** - Exceeds accessibility standards with 8:1+ contrast ratios
+- **Syntax Highlighting** - Clear, distinct colors for all code elements
+- **Reduced Eye Strain** - Optimized for long coding sessions
+- **Multiple Color Palettes** - Choose the aesthetic that works best for you
+- **Consistent UI** - High contrast throughout the entire VS Code interface
 
 ## Installation
 
-1. Open **Extensions** sidebar panel in VS Code (`Ctrl+Shift+X` / `⌘+Shift+X`)
-2. Search for `WCAG Themes`
+1. Open **Extensions** in VS Code (`Ctrl+Shift+X` / `⌘+Shift+X`)
+2. Search for **"WCAG Themes"**
 3. Click **Install**
-4. Select **WCAG Dark Theme** or **WCAG Light Theme** from the menu (**File > Preferences > Color Theme** or **Code > Preferences > Color Theme**)
+4. Select your preferred theme: **File > Preferences > Color Theme** (or **Code > Preferences > Color Theme** on Mac)
 
-## Development & Testing
+## Keywords
 
-Want to preview the themes or contribute? Here's how to set up a development environment:
-
-### Testing the Themes Locally
-
-1. Clone or download this repository
-2. Open the folder in VS Code
-3. Press `F5` to launch a new Extension Development Host window
-4. In the new window, open **Command Palette** (`Ctrl+Shift+P` / `⌘+Shift+P`)
-5. Type "Color Theme" and select **Preferences: Color Theme**
-6. Select **WCAG Dark Theme** or **WCAG Light Theme** to preview
-
-### Modifying Colors
-
-1. Edit the theme files in the `themes/` directory:
-   - `wcag-dark-theme.json` for the dark theme
-   - `wcag-light-theme.json` for the light theme
-2. After making changes, reload the Extension Development Host window:
-   - Press `Ctrl+R` / `⌘+R` in the Extension Development Host window
-   - Or use **Command Palette** > **Developer: Reload Window**
-3. The theme will update with your changes immediately
-
-### Theme File Structure
-
-Each theme file contains:
-
-- `colors`: UI elements (editor background, sidebar, status bar, etc.)
-- `tokenColors`: Syntax highlighting for code elements
-
-Refer to the [VS Code Theme Color Reference](https://code.visualstudio.com/api/references/theme-color) for available color keys.
+accessibility, wcag, high contrast, dark theme, light theme, color theme, a11y, readable, contrast, AAA, visual impairment, eye strain, black theme, blue theme, green theme, crimson theme, midnight theme, slate theme, gray theme
 
 ## Feedback
 
-If you have suggestions or issues, please submit them to the [GitHub repository](https://github.com/iCodeForBananas/wcag-themes).
+Submit suggestions or issues on [GitHub](https://github.com/iCodeForBananas/wcag-themes).
 
 ## License
 
