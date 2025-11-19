@@ -2,7 +2,7 @@
   "name": "wcag-themes",
   "displayName": "WCAG Themes",
   "description": "WCAG compliant VS Code themes with 8:1 minimum contrast ratio, ideal for users with astigmatism and visual impairments.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "michaeljcalkins",
   "repository": {
     "type": "git",
@@ -29,6 +29,7 @@
   "license": "MIT",
   "scripts": {
     "build": "vsce package",
+    "publish": "vsce publish",
     "dev": "vsce package && code --install-extension wcag-themes-1.0.0.vsix"
   },
   "contributes": {
@@ -67,6 +68,16 @@
         "label": "WCAG Hacker Green Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/wcag-hacker-green-theme.json"
+      },
+      {
+        "label": "WCAG Midnight Contrast Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-midnight-contrast-theme.json"
+      },
+      {
+        "label": "WCAG Crimson Contrast Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wcag-crimson-contrast-theme.json"
       }
     ]
   }
