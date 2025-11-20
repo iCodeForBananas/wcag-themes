@@ -125,6 +125,26 @@
         "path": "./themes/wcag-solarized-dark-theme.json"
       },
       {
+        "label": "WCAG Solarized Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/wcag-solarized-light-theme.json"
+      },
+      {
+        "label": "WCAG Light Slate Theme",
+        "uiTheme": "vs",
+        "path": "./themes/wcag-light-slate-theme.json"
+      },
+      {
+        "label": "WCAG Silver Theme",
+        "uiTheme": "vs",
+        "path": "./themes/wcag-silver-theme.json"
+      },
+      {
+        "label": "WCAG Cardboard Theme",
+        "uiTheme": "vs",
+        "path": "./themes/wcag-cardboard-theme.json"
+      },
+      {
         "label": "WCAG Nord Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/wcag-nord-theme.json"
