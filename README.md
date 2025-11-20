@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="icon.png" alt="WCAG Themes Logo" width="128" />
+</div>
+
 # WCAG Themes for VS Code
 
 Accessible, high-contrast color themes for Visual Studio Code that meet WCAG AAA standards. Perfect for developers who need excellent readability, reduced eye strain, and accessibility compliance.
