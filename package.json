@@ -2,7 +2,7 @@
   "name": "wcag-themes",
   "displayName": "WCAG Themes",
   "description": "WCAG compliant VS Code themes with 8:1 minimum contrast ratio, ideal for users with astigmatism and visual impairments.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "michaeljcalkins",
   "repository": {
     "type": "git",
