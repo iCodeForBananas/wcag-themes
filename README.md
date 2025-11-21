@@ -43,6 +43,10 @@ All themes exceed WCAG AAA guidelines with a minimum 8:1 contrast ratio for text
 - **WCAG Warm Light Theme** - Slightly yellow-tinted for warmer feel
 - **WCAG Lavender Light Theme** - Very pale purple background
 - **WCAG Mint Theme** - Soft, pale green background
+- **WCAG Light Slate Theme** - Clean slate gray on light background
+- **WCAG Silver Theme** - Metallic silver light theme
+- **WCAG Cardboard Theme** - Warm cardboard-colored background
+- **WCAG Solarized Light Theme** - WCAG-compliant version of the popular Solarized Light palette
 
 ## Key Features
 
