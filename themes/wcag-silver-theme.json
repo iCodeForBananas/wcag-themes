@@ -90,13 +90,13 @@
     {
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#004040"
+        "foreground": "#006060"
       }
     },
     {
       "scope": "support.type",
       "settings": {
-        "foreground": "#004040"
+        "foreground": "#006060"
       }
     }
   ]
