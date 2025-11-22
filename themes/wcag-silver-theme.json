@@ -27,6 +27,7 @@
     "panel.border": "#A0A0A0",
     "terminal.background": "#D6D6D6",
     "terminal.foreground": "#000000",
+    "editorGroupHeader.tabsBackground": "#C8C8C8",
     "tab.activeBackground": "#D6D6D6",
     "tab.activeForeground": "#000000",
     "tab.activeBorder": "#000000",
